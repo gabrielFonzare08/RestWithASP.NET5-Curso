@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Computador\\Desktop\\RestWithASP.NET5-Curso\\RestWithASP.NET5-Curso\\04_RestWithASPNETUdemy_InterfaceIperson\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {}
+    "C:\\Users\\Computador\\Desktop\\RestWithASP.NET5-Curso\\RestWithASP.NET5-Curso\\05_RestWithASPNETUdemy_InterfaceImplementation\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Computador\\Desktop\\RestWithASP.NET5-Curso\\RestWithASP.NET5-Curso\\04_RestWithASPNETUdemy_InterfaceIperson\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {
+    "C:\\Users\\Computador\\Desktop\\RestWithASP.NET5-Curso\\RestWithASP.NET5-Curso\\05_RestWithASPNETUdemy_InterfaceImplementation\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Computador\\Desktop\\RestWithASP.NET5-Curso\\RestWithASP.NET5-Curso\\04_RestWithASPNETUdemy_InterfaceIperson\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+        "projectUniqueName": "C:\\Users\\Computador\\Desktop\\RestWithASP.NET5-Curso\\RestWithASP.NET5-Curso\\05_RestWithASPNETUdemy_InterfaceImplementation\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
         "projectName": "RestWithASPNETUdemy",
-        "projectPath": "C:\\Users\\Computador\\Desktop\\RestWithASP.NET5-Curso\\RestWithASP.NET5-Curso\\04_RestWithASPNETUdemy_InterfaceIperson\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+        "projectPath": "C:\\Users\\Computador\\Desktop\\RestWithASP.NET5-Curso\\RestWithASP.NET5-Curso\\05_RestWithASPNETUdemy_InterfaceImplementation\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
         "packagesPath": "C:\\Users\\Computador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Computador\\Desktop\\RestWithASP.NET5-Curso\\RestWithASP.NET5-Curso\\04_RestWithASPNETUdemy_InterfaceIperson\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\obj\\",
+        "outputPath": "C:\\Users\\Computador\\Desktop\\RestWithASP.NET5-Curso\\RestWithASP.NET5-Curso\\05_RestWithASPNETUdemy_InterfaceImplementation\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

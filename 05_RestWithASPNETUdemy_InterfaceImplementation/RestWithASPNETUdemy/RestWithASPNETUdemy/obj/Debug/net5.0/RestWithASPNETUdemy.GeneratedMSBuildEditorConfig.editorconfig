@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = RestWithASPNETUdemy
-build_property.ProjectDir = C:\Users\Computador\Desktop\RestWithASP.NET5-Curso\RestWithASP.NET5-Curso\04_RestWithASPNETUdemy_InterfaceIperson\RestWithASPNETUdemy\RestWithASPNETUdemy\
+build_property.ProjectDir = C:\Users\Computador\Desktop\RestWithASP.NET5-Curso\RestWithASP.NET5-Curso\05_RestWithASPNETUdemy_InterfaceImplementation\RestWithASPNETUdemy\RestWithASPNETUdemy\
